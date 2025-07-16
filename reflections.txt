@@ -1,0 +1,1 @@
+1.shell is a method used to interpret commands that are input2.the purpose of shell is to interpret input3.i learned that they make coding easier by giving interpretations4.it was easy.
